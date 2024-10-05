@@ -6,7 +6,7 @@
    ## Notebook
 [Notebook](Notebooks/Laptop_Price_Prediction.ipynb) 
 ## PPT Presentation
-[Presentation](Presentation/Visual_Presentation.pdf)
+[Presentation](Presentations/Visual_Presentation.pdf)
 ##
 Overview :
 This project aims to predict laptop prices based on various specifications, including brand, processor, RAM, storage, and other features. Using machine learning techniques, we develop a regression model to estimate laptop prices with high accuracy.
